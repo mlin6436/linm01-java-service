@@ -1,0 +1,11 @@
+{
+  "name": "linm01-java-service",
+  "packaging": {
+    "requires": [
+      "java-1.7.0-openjdk"
+    ],
+    "type": "war",
+    "application_port": 8080,
+    "status_page": "/status"
+  }
+}
